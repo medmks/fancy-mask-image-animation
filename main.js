@@ -5,4 +5,4 @@ resetButton.addEventListener("click", () => {
   maskedImage.classList.remove("mask-animation");
   setTimeout(() => maskedImage.classList.add("mask-animation"), 100);
 });
-// NOTE:this is greate 
+// REVIEW:value
